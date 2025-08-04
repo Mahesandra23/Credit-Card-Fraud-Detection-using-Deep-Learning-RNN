@@ -15,8 +15,8 @@ Building a **Recurrent Neural Network (RNN)** model to detect fraudulent credit 
 
 ## 🎯 Project Objective
 
-To build a deep learning model capable of effectively detecting fraudulent credit card transactions using temporal data.  
-The model should be able to identify fraudulent patterns with good precision and recall, even under highly imbalanced data conditions.
+1. To build a deep learning model capable of effectively detecting fraudulent credit card transactions using temporal data.  
+2. The model should be able to identify fraudulent patterns with good precision and recall, even under highly imbalanced data conditions.
 
 ---
 
