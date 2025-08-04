@@ -69,4 +69,4 @@ Building a **Recurrent Neural Network (RNN)** model to detect fraudulent credit 
 
 ## ⚙️ How to Run
 
-> Make sure you have Python and Jupyter Notebook installed. And clone this repository.
+Make sure you have Python and Jupyter Notebook installed. And clone this repository.
